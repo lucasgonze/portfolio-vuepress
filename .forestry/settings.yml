@@ -7,11 +7,9 @@ sections:
 - type: document
   path: projects.md
   label: Projects
-  match: "**/*"
 - type: document
   path: videos.md
   label: Videos
-  match: "**/*"
 - type: directory
   path: portfolio
   label: Portfolio
